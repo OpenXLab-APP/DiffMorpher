@@ -117,7 +117,7 @@ rsa==4.9
 ruamel.yaml==0.17.21
 safetensors==0.4.0
 scikit-image==0.20.0
-scipy==1.11.1
+scipy
 semantic-version==2.10.0
 sentencepiece==0.1.99
 setuptools==67.8.0
