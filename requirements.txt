@@ -74,7 +74,7 @@ multidict==6.0.4
 networkx==3.1
 ninja==1.11.1.1
 nltk==3.5
-numpy==1.26.1
+numpy
 oauthlib==3.2.2
 omegaconf==2.3.0
 open-clip-torch==2.23.0
